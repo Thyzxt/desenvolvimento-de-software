@@ -9,7 +9,7 @@ class ex05_condicionais{
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Informe numero de copias: ");
+        System.out.print("Informe o numero de copias: ");
         int num_copias = input.nextInt();
 
         if(num_copias <= 100){

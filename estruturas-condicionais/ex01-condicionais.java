@@ -8,10 +8,10 @@ class ex01_condicionais{
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Informe primeiro numero: ");
+        System.out.print("Informe o primeiro numero: ");
         int num1 = input.nextInt();
 
-        System.out.print("Informe segundo numero: ");
+        System.out.print("Informe o segundo numero: ");
         int num2 = input.nextInt();
 
         if(num1 > num2){

@@ -8,19 +8,19 @@ class ex02_condicionais{
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Informe primeiro numero: ");
+        System.out.print("Informe o primeiro numero: ");
         int num1 = input.nextInt();
 
         int menor = num1;
 
-        System.out.print("Informe segundo numero: ");
+        System.out.print("Informe o segundo numero: ");
         int num2 = input.nextInt();
 
         if(num2 < menor){
             
             menor = num2;}
 
-        System.out.print("Informe terceiro numero: ");
+        System.out.print("Informe o terceiro numero: ");
         int num3 = input.nextInt();
 
         if(num3 < menor){

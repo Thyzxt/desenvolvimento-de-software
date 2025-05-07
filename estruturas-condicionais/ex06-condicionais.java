@@ -11,7 +11,7 @@ class ex06_condicionais{
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Informe numero: ");
+        System.out.print("Informe um numero: ");
         int num = input.nextInt();
 
         switch(num){
