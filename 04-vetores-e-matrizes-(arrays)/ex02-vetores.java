@@ -14,7 +14,7 @@ class ex02_vetores{
 
         float media = soma / 5;
 
-        System.out.println("A media eh de: " + media);
+        System.out.println("A media eh: " + media);
 
         System.out.print("Valores iguais ou superiores a media: ");
 

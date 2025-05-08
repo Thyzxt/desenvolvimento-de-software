@@ -28,6 +28,6 @@ class ex03_vetores{
 
         if(encontrado == false){
             
-            System.out.print("Elemento não encontrado!");}
+            System.out.print("Elemento nao encontrado!");}
 
         input.close();}}
